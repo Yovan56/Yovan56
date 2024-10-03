@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Yovan56
-- 👀 I’m interested in code
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on code
 - 📫 How to reach me discord Yovan#6629
 
 <!---
